@@ -1,4 +1,4 @@
-this is a repository for testing remote issues
+this is a repository for testing remote issues, following the udacity course
 
 # Travel Destinations
 
